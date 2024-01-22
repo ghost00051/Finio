@@ -1,0 +1,15 @@
+body {
+    /* Цвета */
+    --first-color: rgba(255, 255, 255, 0.80);
+    --second-color: #357EFE;
+    --third-color: #000;
+    --fourth-color: rgba(78, 93, 124, 0.50);
+    --fifth-color: #FFF;
+    --orange-color: #FF6536;
+    --line-color: rgba(78, 93, 124, 0.08);
+    --footer-color: #1A1D25;
+    --foter-color-2: rgba(255, 255, 255, 0.70);
+    --foter-color-3: rgba(255, 255, 255, 0.50);
+    /* Шрифты */
+    --first-family: 'Inter', sans-serif;
+}

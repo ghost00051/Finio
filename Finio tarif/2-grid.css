@@ -1,0 +1,98 @@
+.rip-grid-2-0,
+.rip-grid-2-1,
+.rip-grid-2-2,
+.rip-grid-2-3,
+.rip-grid-2-4,
+.rip-grid-2-5 {
+    margin-left: 40px;
+}
+
+.rip-grid-2-0 {
+    color: #FFF;
+    font-family: 'Inter', sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 140%;
+    border-radius: 8px;
+    background: #1ABC9C;
+    width: 100px;
+    height: 24px;
+    text-align: center;
+    padding-top: 6px;
+    margin-bottom: 0;
+}
+
+.rip-grid-god-2 {
+    box-shadow: 0px 0px 32px rgba(78, 93, 124, 0.16);
+    border-radius: 16px;
+}
+
+.rip-grid-2-1 {
+    color: #000;
+    font-family: 'Inter', sans-serif;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 120%;
+    padding-top: 4%;
+    padding-bottom: 1%;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.rip-grid-2-2 {
+    color: rgba(78, 93, 124, 0.50);
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 140%;
+    padding-right: 33%;
+    margin-top: 6px;
+    padding-bottom: 7%;
+}
+
+.rip-grid-2-3, .rip-grid-2-4, .rip-grid-2-5 {
+    color: #4E5D7C;
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 120%;
+    border-bottom: 1px solid var(--line-color);
+    padding-bottom: 3%;
+    padding-top: 1%;
+}
+
+.rip-grid-2-3 span {
+    padding-left: 5%;
+}
+
+.rip-grid-2-4 span {
+    display: inline-block;
+    background-color: #FFC736;
+    width: 80px;
+    height: 24px;
+    margin-left: 51px;
+    text-align: center;
+    border-radius: 8px;
+    padding-top: 4px;
+}
+
+.rip-grid-2-5 span {
+    padding-left: 3%;
+    
+}
+
+.rip-grid-god-2 button {
+    color: #FFF;
+    font-family: 'Inter', sans-serif;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 140%;
+    background-color: #357EFE;
+    border: none;
+    border-radius: 47px;
+    width: 289px;
+    height: 50px;
+    margin-top: 3%;
+    margin-left: 40px;
+}

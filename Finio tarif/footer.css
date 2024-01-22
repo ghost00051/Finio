@@ -1,0 +1,21 @@
+.footer__1 {
+    color: #000;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 120%;
+    margin-bottom: 1%;
+}
+
+.footer__2 {
+    color: rgba(78, 93, 124, 0.50);
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 140%;
+    margin-bottom: 2%;
+}
